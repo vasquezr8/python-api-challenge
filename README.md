@@ -16,7 +16,7 @@ In WeatherPy, I visualized the weather of over 500 cities of varying distances f
 
 ### Findings:
 
-After analyzing the plots and regression lines, I observed trends in how weather variables change with latitude. I provided insights into the relationships and highlighted any noteworthy findings.
+After analyzing the plots and regression lines, I observed trends in how weather variables change with latitude. I provided insights into the relationships and highlighted any noteworthy findings in the WeatherPy/WeatherPy.ipynb file.
 
 ## Part 2: VacationPy
 
